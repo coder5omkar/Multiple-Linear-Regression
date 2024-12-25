@@ -37,17 +37,17 @@ This repo is ideal for beginners and enthusiasts aiming to master linear regress
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coder5omkar/Simple-Linear-Regression.git
+   git clone https://github.com/coder5omkar/Multiple-Linear-Regression.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Simple-Linear-Regression
+   cd Multiple-Linear-Regression
    ```
 
 3. Open the notebook:
    ```bash
-   jupyter notebook SLR.ipynb
+   jupyter notebook MLR.ipynb
    ```
 
 ---
